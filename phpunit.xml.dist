@@ -1,7 +1,7 @@
 <phpunit bootstrap="tests/bootstrap.php" colors="true" verbose="true">
     <testsuites>
-        <testsuite name="StrTestSuite">
-            <directory>Str place cover api test</directory>
+        <testsuite name="Str place cover api test">
+            <directory>tests</directory>
         </testsuite>
     </testsuites>
     <filter>
