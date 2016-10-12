@@ -7,6 +7,7 @@ use Matryoshka\Model\Object\IdentityAwareInterface;
 use Matryoshka\Model\Wrapper\Mongo\Criteria\ActiveRecord\ActiveRecordCriteria;
 use Strapieno\Place\Model\PlaceModelAwareInterface;
 use Strapieno\Place\Model\PlaceModelAwareTrait;
+use Strapieno\PlaceCover\Model\Entity\CoverAwareInterface;
 use Strapieno\User\Model\Entity\UserInterface;
 use Zend\EventManager\EventManagerInterface;
 use Zend\EventManager\ListenerAggregateInterface;
